@@ -47,7 +47,7 @@ We do not store any personal data on our servers. Any data collected by third-pa
 
 ## Children's Privacy
 
-Our App does not target children under 13. We do not knowingly collect personal information from anyone under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at shimonasmr28@gmail.com.
+Our App does not target children under 13. We do not knowingly collect personal information from anyone under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at menti.kobo@gmail.com.
 
 ## Your Rights
 
@@ -74,7 +74,7 @@ If you are in the European Economic Area, you have the right to:
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email**: shimonasmr28@gmail.com
+**Email**: menti.kobo@gmail.com
 
 ---
 
