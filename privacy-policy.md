@@ -1,6 +1,6 @@
 # Privacy Policy for Triamond
 
-**Last Updated: January 18, 2026**
+**Last Updated: November 21, 2026**
 
 ## Introduction
 
